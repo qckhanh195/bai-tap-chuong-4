@@ -5,7 +5,8 @@ app = Flask(__name__)
 
 SHOP = {"name": "Cà phê sông Hương",
         "address": "12 Lê Lợi, Huế",
-        "open": 7, "close": 22}
+        "open": 7, "close": 22,
+        "phone": "0234 567 890"}
 
 PROMOTIONS = [
   "Giảm 10% cho sinh viên",
